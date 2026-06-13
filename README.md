@@ -58,12 +58,10 @@ Choose an option from the menu
 
 6 → Exit
 
-↓
 
 Step 7:
 Database gets updated automatically based on user operations
 
-↓
 
 Step 8:
 View results in MySQL Workbench or through the application
