@@ -1,0 +1,41 @@
+﻿product_id,product_name,category,quantity,price,supplier
+1,Laptop,Electronics,15,55000,Dell
+2,Mouse,Electronics,80,500,Logitech
+3,Keyboard,Electronics,60,1200,HP
+4,Monitor,Electronics,25,12000,Samsung
+5,Printer,Electronics,10,15000,Canon
+6,Chair,Furniture,20,3500,IKEA
+7,Table,Furniture,12,6000,IKEA
+8,Notebook,Stationery,200,50,Classmate
+9,Pen,Stationery,500,10,Reynolds
+10,Pencil,Stationery,400,5,Nataraj
+11,Eraser,Stationery,300,3,Apsara
+12,Sharpener,Stationery,250,8,Nataraj
+13,Water Bottle,Accessories,100,250,Milton
+14,School Bag,Accessories,40,1200,Wildcraft
+15,USB Drive,Electronics,70,700,SanDisk
+16,External HDD,Electronics,20,4500,Seagate
+17,Headphones,Electronics,35,1800,Boat
+18,Webcam,Electronics,18,2200,Logitech
+19,Speaker,Electronics,22,2500,JBL
+20,Router,Electronics,15,3000,TP-Link
+21,LED Bulb,Electrical,150,120,Philips
+22,Extension Board,Electrical,50,350,Havells
+23,Fan,Electrical,25,2200,Crompton
+24,Iron Box,Electrical,18,1800,Bajaj
+25,Mixer Grinder,Home Appliance,10,3500,Prestige
+26,Microwave Oven,Home Appliance,8,9000,LG
+27,Refrigerator,Home Appliance,5,28000,Samsung
+28,Washing Machine,Home Appliance,6,24000,IFB
+29,Air Conditioner,Home Appliance,4,38000,Daikin
+30,Smartphone,Electronics,30,18000,Redmi
+31,Tablet,Electronics,12,25000,Samsung
+32,Smart Watch,Electronics,25,3000,Noise
+33,Power Bank,Electronics,50,1200,Mi
+34,Calculator,Stationery,60,450,Casio
+35,Desk Lamp,Furniture,20,900,Philips
+36,Office Chair,Furniture,15,5500,Godrej
+37,Filing Cabinet,Furniture,8,7500,Godrej
+38,White Board,Office Supplies,12,2500,Camel
+39,Marker,Office Supplies,100,40,Camlin
+40,Stapler,Office Supplies,80,120,Kangaro
