@@ -1,6 +1,6 @@
 # Retail Inventory Management System
 
-## Overview
+##  Project Overview
 
 Retail Inventory Management System is a Python-based application developed using Python, MySQL, and Pandas. The system is designed to manage and track inventory records efficiently through CRUD operations (Create, Read, Update, Delete). It allows users to import product data from CSV files, store and manage data in a MySQL database, and perform inventory management through a simple menu-driven interface. This project demonstrates database connectivity, data handling, and inventory management concepts using Python.
 
