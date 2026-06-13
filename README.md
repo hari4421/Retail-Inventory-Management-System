@@ -1,19 +1,18 @@
-# Retail-Inventory-Management-System
+# Retail Inventory Management System
 
-## Project Overview
+## Overview
 
-Retail Inventory Management System developed using Python, MySQL, and Pandas. Features include product inventory management with CRUD operations (Add, View, Search, Update, Delete), CSV data import, database connectivity, and a menu-driven interface for efficient inventory tracking and management.
+Retail Inventory Management System is a Python-based application developed using Python, MySQL, and Pandas. It helps manage inventory records by performing CRUD operations (Create, Read, Update, Delete) and storing data in a MySQL database.
 
 ## Features
 
-* View all products
-* Search products by Product ID
-* Add new products
-* Update product quantity
-* Delete products
-* Import inventory data from CSV
-* MySQL database integration
-* Menu-driven console application
+* View Products
+* Search Products
+* Add Products
+* Update Products
+* Delete Products
+* Import Data from CSV
+* MySQL Database Connectivity
 
 ## Technologies Used
 
@@ -22,68 +21,61 @@ Retail Inventory Management System developed using Python, MySQL, and Pandas. Fe
 * Pandas
 * MySQL Connector
 
-## Project Structure
+## How the Project Works
 
-Retail-Inventory-Management-System/
+Step 1:
+Create MySQL Database (`inventory_db`)
 
-├── data/
-│   └── inventory_dataset.csv
 
-├── database/
-│   └── inventory_db.sql
+Step 2:
+Run `inventory_db.sql` to create the `products` table
 
-├── src/
-│   ├── db_connection.py
-│   ├── upload_data.py
-│   ├── view_products.py
-│   ├── search_product.py
-│   ├── add_product.py
-│   ├── update_product.py
-│   ├── delete_product.py
-│   └── main.py
 
-├── requirements.txt
-├── README.md
-└── .gitignore
+Step 3:
+Prepare `inventory_dataset.csv` containing product information
 
-## Installation
 
-1. Clone or download the project.
-2. Create a MySQL database named `inventory_db`.
-3. Execute `database/inventory_db.sql`.
-4. Update MySQL credentials in `src/db_connection.py`.
-5. Install dependencies:
+Step 4:
+Run `upload_data.py` to upload CSV data into MySQL
 
-pip install -r requirements.txt
+
+Step 5:
+Run `main.py`
+
+
+Step 6:
+Choose an option from the menu
+
+1 → View Products
+
+2 → Search Product
+
+3 → Add Product
+
+4 → Update Product
+
+5 → Delete Product
+
+6 → Exit
+
+↓
+
+Step 7:
+Database gets updated automatically based on user operations
+
+↓
+
+Step 8:
+View results in MySQL Workbench or through the application
+
+## Requirements
+
+* pandas
+* mysql-connector-python
 
 ## Run the Project
 
-Upload CSV Data:
-
-python src/upload_data.py
-
-Run Main Application:
-
+```bash
 python src/main.py
+```
 
-## Sample Operations
-
-* View Products
-* Search Product
-* Add Product
-* Update Product Quantity
-* Delete Product
-* Exit Application
-
-## Skills Demonstrated
-
-* Python Programming
-* SQL Database Management
-* CRUD Operations
-* Data Handling with Pandas
-* Database Connectivity
-* Project Structure and Documentation
-
-## Author
-
-Hari Krishna
