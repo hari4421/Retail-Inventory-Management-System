@@ -21,6 +21,18 @@ Retail Inventory Management System is a Python-based application developed using
 * Pandas
 * MySQL Connector
 
+## Database Operations
+
+* CREATE DATABASE
+* CREATE TABLE
+* INSERT
+* SELECT
+* UPDATE
+* DELETE
+
+These operations are performed through Python using MySQL Connector.
+
+
 ## How the Project Works
 
 Step 1:
