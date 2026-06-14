@@ -23,6 +23,8 @@ Retail Inventory Management System is a Python-based application developed using
 
 ## Database Operations
 
+The project uses the following SQL operations:
+
 * CREATE DATABASE
 * CREATE TABLE
 * INSERT
